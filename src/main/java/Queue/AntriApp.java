@@ -16,7 +16,7 @@ public class AntriApp {
         antrian.masuk(54);
         antrian.lihat();
         System.out.println("Nilai yang paling depan = "+ antrian.peekDepan());
-              
+        System.out.println(" Hai Faizal");      
     }
 
   
